@@ -1,6 +1,6 @@
 # pyFun
 
-a whimsical space to learn and play with Python  
+a whimsical space to learn and play with Python
 
 explore eclectic pursuits…  
 [`bookmarks`](bookmarks.md)  
