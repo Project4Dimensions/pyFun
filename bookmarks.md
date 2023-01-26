@@ -1,5 +1,8 @@
 # pyFun bookmarks
 
+## create, retrieve, update, delete
+
+   
 Switching web browsers often involves exporting and importing bookmarks and
 keeping these up-to-date. Some web browser bookmark managers also lack fields
 for tags and notes.
