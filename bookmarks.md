@@ -1,6 +1,6 @@
 # pyFun bookmarks
 
-## create, retrieve, update, delete
+create, retrieve, update, delete
 
    
 Switching web browsers often involves exporting and importing bookmarks and
