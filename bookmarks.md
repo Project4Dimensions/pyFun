@@ -12,6 +12,7 @@ The Browse Happy website suggests suitable browsers.
 
 See [`bookmarks.py`](bookmarks.py).
 
+   
 Usage
 
 Install Python3 and dependencies.
@@ -27,11 +28,11 @@ In macOS and Windows, open a terminal and type
 `pip3 install bottle eventlet`
 
 For Android, install and open Termux; then type  
-`pgk update`
-`pgk upgrade`
-`pkg install sqlite python3`
-`python3 -m pip install --upgrade pip`
-`pip install bottle`
+`pgk update`  
+`pgk upgrade`  
+`pkg install sqlite python3`  
+`python3 -m pip install --upgrade pip`  
+`pip install bottle`  
 `pip install eventlet`
 
 Open a terminal, cd to the pyFun folder and type    
@@ -43,6 +44,7 @@ In a web browser, paste and go to this link:
 To import Firefox bookmarks, read this file:  
 [`bookmarks-json2sql.md`](bookmarks-json2sql.md).
 
+   
 Tested with following web browsers
 
 Firefox 100.0 (64-bit)  
@@ -53,25 +55,26 @@ Safari 13.0.5
 Safari iOS version 10.3.3  
 Web 3.36.4 (powered by Powered by WebKitGTK 2.36.0)
 
+   
 References
 
 Hellkamp, Marcel. 2018.  
-  “Tutorial — Bottle 0.13-dev documentation.”  
-  Last updated December 15, 2022.  
-  [http://bottlepy.org/docs/dev/tutorial.html][0].
+  “Tutorial — Bottle 0.13-dev documentation.”  
+  Last updated December 15, 2022.  
+  [http://bottlepy.org/docs/dev/tutorial.html][0].
 
 [0]: http://bottlepy.org/docs/dev/tutorial.html
 
 Popov, Dmitri. 2015.  
-  “Python in a Bottle: Using the Bottle framework to build Python apps.”  
-  *Linux Magazine* 174 (May).  
-  [http://www.linux-magazine.com/Issues/2015/174/Workspace-Bottle][1].
+  “Python in a Bottle: Using the Bottle framework to build Python apps.”  
+  *Linux Magazine* 174 (May).  
+  [http://www.linux-magazine.com/Issues/2015/174/Workspace-Bottle][1].
 
 [1]: http://www.linux-magazine.com/Issues/2015/174/Workspace-Bottle
 
 Schnelle, Jochen. 2018.  
-  “Tutorial: Todo-List Application — Bottle 0.13-dev documentation.”  
-  Last modified December 15, 2022.  
-  [https://bottlepy.org/docs/dev/tutorial_app.html][2].
+  “Tutorial: Todo-List Application — Bottle 0.13-dev documentation.”  
+  Last modified December 15, 2022.  
+  [https://bottlepy.org/docs/dev/tutorial_app.html][2].
 
 [2]: https://bottlepy.org/docs/dev/tutorial_app.html
