@@ -59,22 +59,22 @@ Web 3.36.4 (powered by Powered by WebKitGTK 2.36.0)
 References
 
 Hellkamp, Marcel. 2018.  
-  “Tutorial — Bottle 0.13-dev documentation.”  
-  Last updated December 15, 2022.  
-  [http://bottlepy.org/docs/dev/tutorial.html][0].
+    “Tutorial — Bottle 0.13-dev documentation.”  
+    Last updated December 15, 2022.  
+    [http://bottlepy.org/docs/dev/tutorial.html][0].
 
 [0]: http://bottlepy.org/docs/dev/tutorial.html
 
 Popov, Dmitri. 2015.  
-  “Python in a Bottle: Using the Bottle framework to build Python apps.”  
-  *Linux Magazine* 174 (May).  
-  [http://www.linux-magazine.com/Issues/2015/174/Workspace-Bottle][1].
+    “Python in a Bottle: Using the Bottle framework to build Python apps.”  
+    *Linux Magazine* 174 (May).  
+    [http://www.linux-magazine.com/Issues/2015/174/Workspace-Bottle][1].
 
 [1]: http://www.linux-magazine.com/Issues/2015/174/Workspace-Bottle
 
 Schnelle, Jochen. 2018.  
-  “Tutorial: Todo-List Application — Bottle 0.13-dev documentation.”  
-  Last modified December 15, 2022.  
-  [https://bottlepy.org/docs/dev/tutorial_app.html][2].
+    “Tutorial: Todo-List Application — Bottle 0.13-dev documentation.”  
+    Last modified December 15, 2022.  
+    [https://bottlepy.org/docs/dev/tutorial_app.html][2].
 
 [2]: https://bottlepy.org/docs/dev/tutorial_app.html
